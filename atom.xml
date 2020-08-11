@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NihilityHsiao.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-08-11T14:32:45.700Z</updated>
+    <title>programmerHsiao&apos;s blog</title>
+    <updated>2020-08-11T14:47:37.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NihilityHsiao.github.io"/>
     <link rel="self" href="https://NihilityHsiao.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>再小的帆也能远航</subtitle>
     <logo>https://NihilityHsiao.github.io/images/avatar.png</logo>
     <icon>https://NihilityHsiao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, programmerHsiao&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[关于我]]></title>
+        <id>https://NihilityHsiao.github.io/post/about/</id>
+        <link href="https://NihilityHsiao.github.io/post/about/">
+        </link>
+        <updated>2020-08-11T14:46:57.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>无聊写写博客，记录生活，学习情况。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p>2020-08-11<br>
+目前是一名大三学生，计算机专业。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>看看书，写写代码。<br>
+喜欢喝益禾堂，禾丰奶绿三分糖少冰，无糖也可以。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p>qq：2289129267<br>
+email：programmerHsiao@outlook.com</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://NihilityHsiao.github.io/post/hello-gridea/</id>
